@@ -1,8 +1,7 @@
-# 💫 About Me:
-Hi there 👋 I'm Zahra Mahmoudi.<br>
+## Hi there 👋 I'm Zahra Mahmoudi.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zahramahmoudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahramh018@gmail.com) 
 
 # 💻 Tech Stack:
